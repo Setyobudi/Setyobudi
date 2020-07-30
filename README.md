@@ -1,10 +1,12 @@
 ### Hi there 👋 I am [Muhammad Hakim Setyobudi](https://setyobudi.github.io)
 
-<br />
+
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+
 <br />
+
 <a href="https://www.linkedin.com/in/hacksetyobudi/">
-  <img align="left" alt="Muhammad Hakim Setyobudi LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  Cek LinkedIN saya <img align="left" alt="Muhammad Hakim Setyobudi LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <!--
 **Setyobudi/Setyobudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
