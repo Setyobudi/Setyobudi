@@ -3,7 +3,7 @@
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
-<br />
+
 <br />
 My LinkedIn <a href="https://www.linkedin.com/in/hacksetyobudi/">
   <img align="left" alt="Muhammad Hakim Setyobudi LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
