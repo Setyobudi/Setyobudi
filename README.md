@@ -3,8 +3,9 @@
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
-
-
+<br />
+<br />
+<div>
 My LinkedIn <a href="https://www.linkedin.com/in/hacksetyobudi/">
   <img align="left" alt="Muhammad Hakim Setyobudi LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -12,6 +13,7 @@ My LinkedIn <a href="https://www.linkedin.com/in/hacksetyobudi/">
 My Twitter <a href="https://www.twitter.com/hacksetyobudi/">
   <img align="left" alt="Muhammad Hakim Setyobudi Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+  </div>
 <!--
 **Setyobudi/Setyobudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <br />
