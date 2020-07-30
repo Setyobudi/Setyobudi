@@ -5,8 +5,11 @@
 
 <br />
 
-<a href="https://www.linkedin.com/in/hacksetyobudi/">
-  Cek LinkedIN saya <img align="left" alt="Muhammad Hakim Setyobudi LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+My LinkedIn <a href="https://www.linkedin.com/in/hacksetyobudi/">
+  <img align="left" alt="Muhammad Hakim Setyobudi LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+My Twitter <a href="https://www.twitter.com/hacksetyobudi/">
+  <img align="left" alt="Muhammad Hakim Setyobudi Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <!--
 **Setyobudi/Setyobudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
